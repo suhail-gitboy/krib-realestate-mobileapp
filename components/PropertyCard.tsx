@@ -40,7 +40,7 @@ export default function PropertyCard({
                 resizeMode="cover"
             />
 
-            {/* Info */}
+
             <View className="flex-1 p-3 justify-between">
                 <View>
                     <Text
